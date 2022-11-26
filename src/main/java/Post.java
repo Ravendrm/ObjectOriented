@@ -1,6 +1,6 @@
 public class Post {
 
-    public static FormDate birthday;
+    public FormDate birthday;
     public String name;
     public String passport;
     public String patronymic;
